@@ -1,0 +1,38 @@
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+img {
+    width: 100%;
+     
+}
+h1{
+    text-align: center;
+    border:20px;
+    padding: 10px;
+    background-color: aqua;
+}
+.but{
+    position: fixed;
+    top: 22%;
+    left: 46%;
+    padding:15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    margin: 4px 2px; 
+    background-color: #b87708; 
+    color: white; 
+}
+.a{
+    color: aliceblue;
+    top:30%;
+    right:47%;
+    position: fixed;
+    font-size: 20px;
+    padding:15px 32px;
+}
